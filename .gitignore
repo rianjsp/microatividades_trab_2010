@@ -8,6 +8,7 @@ relatorio
 *.xlsx
 *.xls
 *.json
+.pdf
 
 # Arquivos temporários e de sistema
 *.log
