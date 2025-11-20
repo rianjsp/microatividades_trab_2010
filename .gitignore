@@ -1,14 +1,11 @@
 # Arquivos e pastas do Jupyter
 .ipynb_checkpoints/
-relatorio
 
 # Arquivos de dados
-*.csv
 *.tsv
-*.xlsx
 *.xls
 *.json
-.pdf
+*.pdf
 
 # Arquivos temporários e de sistema
 *.log
